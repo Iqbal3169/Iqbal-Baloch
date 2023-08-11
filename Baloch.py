@@ -390,5 +390,5 @@ def pilih_super():
 	print("\033[1;96m[+] \033[1;92mCP File Has Been Saved \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
-if __Iqbal Baloch__ == '__main__':
+if __name__ == '__main__':
 	login()
